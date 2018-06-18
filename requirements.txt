@@ -1,3 +1,4 @@
+attr
 cached_property
 lxml
 six
